@@ -237,7 +237,7 @@ Results for democracy using Levenshtein Distance #2:
 3 gynocracy
 3 hemicrany
 
-$ python3 fenton.py republican -m 1 -n 30 -l -s -v # find 30 matches using only Damerau-Levenshtein Distance
+C:\Users\gvp\fenton>fenton.exe -m 1 -n 30 republican -l -s -v # from DOS return 30 results using Damerau-Levenshtein Distance
 targetword        =  republican
 method            =  1
 dictionary        =  words.txt
