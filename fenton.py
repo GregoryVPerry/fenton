@@ -3,7 +3,7 @@
 # fenton: specify target word then find the top n words from a
 # dictionary which are closest using distance matching methods
 #
-# copyright 2020 Gregory V. Perry || GitHub@GregoryVPerry
+# copyright 2020 Gregory V. Perry || GregoryVPerry@pm.me
 #
 
 import argparse, heapq, jellyfish, string, sys, textwrap
