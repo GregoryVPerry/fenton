@@ -5,6 +5,9 @@
 #
 # copyright 2020 Gregory V. Perry || GregoryVPerry@pm.me
 #
+# LICENSE: you are free to use this source code in any way you want, as long as you give me a shout out with
+#          my email address on any deriviative code implementation and/or published research that follows.
+#
 
 import argparse, heapq, jellyfish, string, sys, textwrap
 from fuzzywuzzy import fuzz
